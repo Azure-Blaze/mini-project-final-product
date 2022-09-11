@@ -3,7 +3,13 @@ In this repository it contain 2 seperate files, one is for segmentation and the 
 
 segmentation
 
+-Segment by using contours area 
 
+-Segment by using contours perimetr
+
+-Segment by using color based: RGB
+
+-Segment by using color based: HSV
 
 
 
